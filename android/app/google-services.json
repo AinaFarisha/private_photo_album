@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "596279897178",
+    "project_id": "private-album-768cd",
+    "storage_bucket": "private-album-768cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596279897178:android:d025e60fd000b4324dbc63",
+        "android_client_info": {
+          "package_name": "com.ainafarisha.private_photo_album"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596279897178-9pr8r78kq4k2i2hudmvk85sbmin2893r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ5KLtp2gBXXxvAM6UluoxHsC9IBbVNSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596279897178-9pr8r78kq4k2i2hudmvk85sbmin2893r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
